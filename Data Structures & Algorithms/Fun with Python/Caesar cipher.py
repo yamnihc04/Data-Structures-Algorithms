@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
 def encryption(b,f):
     cipher = ""
     print(b)
@@ -64,8 +61,6 @@ def main():
         decryption(e,d)
 main()
 
-
-# In[ ]:
 
 
 

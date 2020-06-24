@@ -13,4 +13,8 @@ A repository dedicated to Data Structures &amp; Algorithms in python with soluti
 * [Infix To Postfix Conversion](https://github.com/yamnihc04/Data-Structures-Algorithms/blob/master/Data%20Structures%20%26%20Algorithms/Stack/infix_to_postfix.py)
 * [Postfix Evaluation](https://github.com/yamnihc04/Data-Structures-Algorithms/blob/master/Data%20Structures%20%26%20Algorithms/Stack/postfix_eval.py)
 
+### Queue
+* [Deque](https://github.com/yamnihc04/Data-Structures-Algorithms/blob/master/Data%20Structures%20%26%20Algorithms/Queue/Deque.py)
+* [Queue using linked list](https://github.com/yamnihc04/Data-Structures-Algorithms/blob/master/Data%20Structures%20&%20Algorithms/Queue/queue%20using%20linked%20list.py)
+
 

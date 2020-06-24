@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 
-""" A Queue using a Linked List like structure """
+""" A Queue using a Linked List """
 from typing import Any, Optional
 
 

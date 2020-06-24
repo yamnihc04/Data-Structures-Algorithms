@@ -1,7 +1,4 @@
 #!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
 
 
 """ A Queue using a Linked List like structure """
@@ -49,10 +46,3 @@ class LinkedQueue:
                 self.rear = None
 
             return node.data
-
-
-# In[ ]:
-
-
-
-

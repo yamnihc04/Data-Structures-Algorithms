@@ -1,4 +1,4 @@
-# Data-Structures-Algorithms
+# Data Structures and Algorithms
 A repository dedicated to Data Structures &amp; Algorithms in python with solutions
 
 ### Fun with Python

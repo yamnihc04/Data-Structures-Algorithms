@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import os
 
 os.system('cls' if os.name == 'nt' else 'clear')

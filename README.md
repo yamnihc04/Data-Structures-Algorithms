@@ -23,4 +23,6 @@ A repository dedicated to Data Structures &amp; Algorithms in python with soluti
 * [Deque](https://github.com/yamnihc04/Data-Structures-Algorithms/blob/master/Data%20Structures%20%26%20Algorithms/Queue/Deque.py)
 * [Queue using linked list](https://github.com/yamnihc04/Data-Structures-Algorithms/blob/master/Data%20Structures%20&%20Algorithms/Queue/queue%20using%20linked%20list.py)
 
-
+### Graphs
+* [Minimum Spanning Tree Kruskal](https://github.com/yamnihc04/Data-Structures-Algorithms/blob/master/Data%20Structures%20%26%20Algorithms/Graph/mst%20kruskals.py)
+* [Minimum Spanning Tree Prims](https://github.com/yamnihc04/Data-Structures-Algorithms/blob/master/Data%20Structures%20%26%20Algorithms/Graph/mst%20prims.py)

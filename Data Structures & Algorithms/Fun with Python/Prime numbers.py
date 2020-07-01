@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 from typing import Generator
 import math
 
@@ -34,4 +28,3 @@ if __name__ == "__main__":
     number = int(input("Calculate primes up to:\n>> ").strip())
     for ret in primes(number):
         print(ret)
-

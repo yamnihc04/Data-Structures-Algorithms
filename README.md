@@ -5,6 +5,7 @@ A repository dedicated to Data Structures &amp; Algorithms in python with soluti
 * [Fibonacci Series](https://github.com/yamnihc04/Data-Structures-Algorithms/blob/master/Data%20Structures%20%26%20Algorithms/Fun%20with%20Python/Fibonacci.py)
 * [Caesar cipher](https://github.com/yamnihc04/Data-Structures-Algorithms/blob/master/Data%20Structures%20&%20Algorithms/Fun%20with%20Python/Caesar%20cipher.py)
 * [Palindrome](https://github.com/yamnihc04/Data-Structures-Algorithms/blob/master/Data%20Structures%20%26%20Algorithms/Fun%20with%20Python/Palindrome.py)
+* [Prime numbers](https://github.com/yamnihc04/Data-Structures-Algorithms/blob/master/Data%20Structures%20&%20Algorithms/Fun%20with%20Python/Prime%20numbers.py)
 
 ### Trees
 * [Binary Tree](https://github.com/yamnihc04/Data-Structures-Algorithms/blob/master/Data%20Structures%20%26%20Algorithms/Trees/binary%20tree.py) 

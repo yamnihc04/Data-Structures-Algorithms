@@ -6,6 +6,7 @@ A repository dedicated to Data Structures &amp; Algorithms in python with soluti
 * [Caesar cipher](https://github.com/yamnihc04/Data-Structures-Algorithms/blob/master/Data%20Structures%20&%20Algorithms/Fun%20with%20Python/Caesar%20cipher.py)
 * [Palindrome](https://github.com/yamnihc04/Data-Structures-Algorithms/blob/master/Data%20Structures%20%26%20Algorithms/Fun%20with%20Python/Palindrome.py)
 * [Prime numbers](https://github.com/yamnihc04/Data-Structures-Algorithms/blob/master/Data%20Structures%20&%20Algorithms/Fun%20with%20Python/Prime%20numbers.py)
+* [Tower Of Hanoi](https://github.com/yamnihc04/Data-Structures-Algorithms/blob/master/Data%20Structures%20%26%20Algorithms/Fun%20with%20Python/towerofhanoi.py)
 
 ### Trees
 * [Binary Tree](https://github.com/yamnihc04/Data-Structures-Algorithms/blob/master/Data%20Structures%20%26%20Algorithms/Trees/binary%20tree.py) 
